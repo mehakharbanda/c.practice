@@ -7,6 +7,6 @@ int main() {
     x=x+y;
     y=x-y;
     x=x-y;
-    printf("after swapping first variable=%d\nseconf variable=%d",x,y);
+    printf("after swapping first variable=%d\nafter swapping second variable=%d",x,y);
     return 0;
 }
